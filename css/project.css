@@ -1,0 +1,81 @@
+
+
+.parents{
+    background-color: rgb(243, 243, 243);
+    padding: 20px;
+    color: rgb(39, 2, 2);
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    border-bottom: .5px solid rgb(248, 244, 244);
+    
+}
+.manu{
+    display: flex;
+    margin: 10px;
+}
+.right{
+    margin: 10px;
+    font-size: 35px;
+    cursor: pointer;
+
+}
+.right:hover{
+    color: chartreuse;
+}
+.banner-contaner{
+    background-image: url("banner\ back.jpg");
+    display: flex;
+    justify-content: space-around;
+    
+    height: 100vh;
+    align-items: center;
+    
+}
+.title{
+    font-size: 90px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.description{
+    font-size: 35px;
+    font-style: oblique;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    padding: 15px;
+    background-color: rgb(119, 86, 241);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 40px;
+    box-shadow: 1.5px 1.5px ;
+    cursor: pointer;
+}
+.btn:hover{
+    color: orangered;
+}
+.midel{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+.title2{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.about{
+    text-align: center;
+    font-size: 50px;
+}
+.thirdimg{
+    padding-left: 15px;
+    padding-right: 30px;
+}
+
