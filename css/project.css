@@ -149,7 +149,45 @@
     margin-top: 10px;
     margin-bottom: 5px;
     padding: 0px 0px 0px 20px;
-
+}
+.fute{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(27, 26, 25);
+    color: wheat;
+    box-shadow: 10px 0px 0px 0px black;
+}
+.butonimg{
+    width: fit-content;
+    margin-left: 20px;
+}
+.bottomtitrl{
+    margin-left: 20px;
+    font-size: 30px;
+}
+.bottompera{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.bottomtag{
+    font-size: 40px;
+}
+.bottomoption{
+    font-size: 30px;
+    list-style: none;
+}
+.botomlist:hover{
+    color: blue;
+}
+.botomlist{
+    cursor: pointer;
+}
+.botomsecondlist{
+    font-size: 30px;
+    list-style: none;
+}
+.botomadrs{
+    font-size: 30px;
 }
 
 
